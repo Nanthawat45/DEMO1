@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Josefin+Sans&display=swap');
+
+* {
+    font-family: 'East Sea Dokdo', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.profile{
+    width: 700px;
+    height: 200px;
+    background-color: aqua;
+    padding: 70px 20px;
+    display: flex;
+    border-radius:  30px;
+    align-items: center;
+    border: 1px solid;
+    padding: 10px
+    box;
+}
